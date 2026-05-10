@@ -1,0 +1,20 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# API keys & secrets
+.env
+*.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# ChromaDB local database (generated at runtime)
+chroma/
+chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
