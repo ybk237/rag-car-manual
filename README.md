@@ -1,6 +1,6 @@
 # RAG Chatbot for Car Technical Documentation
 
-**Author:** Yohann BIKELE — [github.com/ybk237]
+**Author:** [Yohann BIKELE](github.com/ybk237)
 
 A **Retrieval-Augmented Generation (RAG)** chatbot that answers natural-language questions about car warning messages, grounded strictly in the vehicle's official manual. Built with LangChain.
 
